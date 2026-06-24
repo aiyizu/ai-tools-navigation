@@ -12,6 +12,7 @@
 | AI视频 | 剪映AI、Runway、Sora |
 | AI编程 | GitHub Copilot、Cursor、TRAE |
 | AI办公 | 稿定设计AI、创客贴AI、酷家乐AI |
+| AI知识管理 | Remio、Mem、Notion AI |
 
 ---
 
@@ -27,4 +28,4 @@
 
 🎯 [**AI一族 - 发现最适合你的AI工具**](https://www.aiyizu.cn/) - AI工具集、下载、教程、新闻资讯一站式导航平台。
 
-推荐工具：文状元、Whispr、库宝AI工作助手等最新收录工具，每日更新！
+推荐工具：文状元、Whispr、库宝AI工作助手、[Remio](https://remio.ai/) 等最新收录工具，每日更新！
